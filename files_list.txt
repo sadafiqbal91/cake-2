@@ -1,0 +1,11 @@
+Project Files and Images List:
+
+- index.html
+- main.js
+- README.md
+- style.css
+- images/cake1.png
+- images/cake2.png
+- images/cake3.png
+- images/logo.png
+- images/process.jpg
